@@ -2,8 +2,8 @@
 import './App.css';
 // import About from './components/About';
 import Navbar from './components/Navbar';
-// import TextForm from './components/TextForm';
-// import Alert from './components/Alert';
+import TextForm from './components/TextForm';
+import Alert from './components/Alert';
 import { useState } from "react";
 // import {
 //   BrowserRouter as Router,
